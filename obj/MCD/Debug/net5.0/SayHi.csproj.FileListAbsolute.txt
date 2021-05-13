@@ -1,0 +1,16 @@
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\SayHi.exe
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\SayHi.deps.json
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\SayHi.runtimeconfig.json
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\SayHi.runtimeconfig.dev.json
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\SayHi.dll
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\ref\SayHi.dll
+C:\Users\Owner\repos\SayHi\SayHi\bin\MCD\Debug\net5.0\SayHi.pdb
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.csprojAssemblyReference.cache
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.AssemblyInfoInputs.cache
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.AssemblyInfo.cs
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.dll
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\ref\SayHi.dll
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.pdb
+C:\Users\Owner\repos\SayHi\SayHi\obj\MCD\Debug\net5.0\SayHi.genruntimeconfig.cache
